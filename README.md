@@ -1,2 +1,2 @@
 # duncandoo.github.io
-My photo blog
+Production repo for my photo blog
